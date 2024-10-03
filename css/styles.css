@@ -24,3 +24,40 @@ h2{
     color: #187e29;
     font-size: 2rem;
 }
+
+/*Estils horarios*/
+table{
+    width: 50%;
+    text-align: center;
+    padding: 1rem;
+    margin: 2rem auto;
+    border: 2px solid #ccc;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    font-size: 1.2rem;
+    border-collapse: collapse;
+    border-color: #000000;
+}
+
+.AW{
+    background-color: #8DEE00;
+}
+
+.SO{
+    background-color: #088000;
+}
+
+.EIE{
+    background-color: #4ABD8C;
+}
+
+.SX{
+    background-color: #290087;
+}
+
+.Se{
+    background-color: #84818E;
+}
+
+.Pati{
+    background-color: #10b943;
+}
