@@ -31,7 +31,6 @@ table{
     text-align: center;
     padding: 1rem;
     margin: 2rem auto;
-    border: 2px solid #ccc;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     font-size: 1.2rem;
     border-collapse: collapse;
@@ -59,5 +58,5 @@ table{
 }
 
 .Pati{
-    background-color: #10b943;
+    background-color: rgb(175, 233, 233);
 }
