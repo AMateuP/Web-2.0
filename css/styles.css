@@ -25,6 +25,11 @@ h2{
     font-size: 2rem;
 }
 
+nav{
+    text-decoration: none;
+    color: #fff;
+}
+
 /*Estils horarios*/
 table{
     width: 50%;
