@@ -1,4 +1,7 @@
-/* Contenedor principal */
+body{
+    background-color: #A98306;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -7,17 +10,34 @@
     background-color: lavender;
     padding: 20px;
     border-radius: 10px;
+    background-color: #302C2D;
 }
 
-/* Estilos de los botones */
 .boton {
-    background-color: #6c8e68;
-    border: none;
-    border-radius: 10px;
     padding: 20px;
     margin: 10px;
     width: 150px;
     text-align: center;
     cursor: pointer;
     transition: background-color 0.3s ease;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #187e29;
+    border-bottom: 2px solid #ccc;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 16px;
+    margin-right: 15px;
+}
+
+h1{
+    font-size: 2.5rem; 
 }
