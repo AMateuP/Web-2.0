@@ -46,6 +46,7 @@ a{
     padding: 3px;
     color: white;
     border-radius: 8px;
+    background-color: blueviolet;
 }
 
 a:hover{
